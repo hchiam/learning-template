@@ -29,11 +29,11 @@ And then:
 Using [`yarn`](https://github.com/hchiam/learning-yarn): (triple-click to select all)
 
 ```bash
-git clone https://github.com/hchiam/learning-template.git; cd learning-template; yarn; # and then ...
+git clone https://github.com/hchiam/learning-template.git && cd learning-template && yarn; # and then ...
 ```
 
 Or with `npm`: (triple-click to select all)
 
 ```bash
-git clone https://github.com/hchiam/learning-template.git; cd learning-template; npm install; # and then ...
+git clone https://github.com/hchiam/learning-template.git && cd learning-template && npm install; # and then ...
 ```
