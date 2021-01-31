@@ -2,6 +2,8 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
+(Template for convenience script repos: https://github.com/hchiam/convenience)
+
 <!-- Add reference link(s) here -->
 
 ## From scratch
