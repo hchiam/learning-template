@@ -2,7 +2,9 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
-(Template for convenience script repos: https://github.com/hchiam/convenience)
+(To create a convenience script repo, use this template instead: https://github.com/hchiam/convenience)
+
+(To create a website fast, use a code generator like [`create-next-app`](https://github.com/hchiam/learning-nextjs), [`sapper`](https://github.com/hchiam/learning-sapper), or [`yo`](https://yeoman.io/generators) )
 
 <!-- Add reference link(s) here -->
 
