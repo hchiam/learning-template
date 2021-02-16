@@ -4,7 +4,7 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 (To create a convenience script repo, use this template instead: https://github.com/hchiam/convenience)
 
-(To create a website fast, use a code generator like [`create-next-app`](https://github.com/hchiam/learning-nextjs), [`sapper`](https://github.com/hchiam/learning-sapper), or [`yo`](https://yeoman.io/generators) )
+(To create a website fast, use a code generator like [`create-next-app`](https://github.com/hchiam/learning-nextjs), [`sapper`](https://github.com/hchiam/learning-sapper), a [svelte](https://github.com/hchiam/learning-svelte) template, or [`yo`](https://yeoman.io/generators) )
 
 <!-- Add reference link(s) here -->
 
