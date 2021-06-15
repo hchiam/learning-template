@@ -13,13 +13,13 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 Using [`yarn`](https://github.com/hchiam/learning-yarn):
 
 ```bash
-yarn add 
+yarn add
 ```
 
 Or with `npm`:
 
 ```bash
-npm install 
+npm install
 ```
 
 And then:
