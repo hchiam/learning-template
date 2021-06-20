@@ -6,7 +6,7 @@
   "author": "hchiam <hchiam@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest --bail --findRelatedTests",
+    "test": "jest --bail --findRelatedTests **/*.js",
     "lint": "prettier --write *.{js,css,html,scss,json,md,ts,tsx}"
   },
   "dependencies": {},
