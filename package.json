@@ -7,10 +7,12 @@
   "license": "MIT",
   "scripts": {
     "test": "jest --bail --findRelatedTests **/*.js",
-    "lint": "prettier --write *.{js,css,html,scss,json,md,ts,tsx}"
+    "lint": "prettier --write *.{js,css,html,scss,json,md,ts,tsx}",
+    "es-check": "es-check es5 './**/*.js' --not=node_modules"
   },
   "dependencies": {},
   "devDependencies": {
+    "es-check": "^6.0.0",
     "husky": "^4.3.0",
     "jest": "^27.0.4",
     "lint-staged": "^11.0.0",
@@ -23,7 +25,8 @@
   },
   "lint-staged": {
     "**/*.js": [
-      "jest --bail --findRelatedTests"
+      "jest --bail --findRelatedTests",
+      "es-check es5 './**/*.js' --not=node_modules"
     ],
     "*.{js,css,html,scss,json,md,ts,tsx}": "prettier --write"
   }
