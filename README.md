@@ -2,7 +2,7 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
-(To use this template fast with [`gh` CLI](https://cli.github.com/manual/gh_repo_create), run `gh repo create --template learning-template learning-...`)
+(To use this template fast with [`gh` CLI](https://github.com/hchiam/learning-gh), you can run [`gh repo create --template learning-template learning-...`](https://cli.github.com/manual/gh_repo_create))
 
 (To create a convenience script repo, use this template instead: https://github.com/hchiam/convenience)
 
